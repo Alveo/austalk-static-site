@@ -21,7 +21,7 @@ collect the data at all collection sites. Such standard recording
 conditions and standard tasks allow us to carefully capture regional and
 social variations across the country.
 
-The recording set-ups will remain at each [recording site](/recording-sites/) for subsequent data
+The recording set-ups will remain at each [recording site]({% link _tabs/recording-sites.md %}) for subsequent data
 collection projects. The AusTalk corpus of audio visual speech data,
 incorporating annotations, transcriptions and metadata, is accessible
 via a centralised storage facility. The original corpus, and later
@@ -46,7 +46,7 @@ completeness.
 
 Prior to the recording session, each speaker completed an extensive
 online
-[questionnaire](/assets/attachments/AusTalk-demographic-questionnaire_04ZYhM8.pdf "AusTalk demographic questionnaire ")
+[questionnaire]({% link assets/attachments/AusTalk-demographic-questionnaire_04ZYhM8.pdf %}  "AusTalk demographic questionnaire ")
 to collect a comprehensive set of demographic, family, historical and
 language background data. Each speaker was recorded over three 1-hour
 sessions, separated by at least one week to capture natural variation in
@@ -60,23 +60,23 @@ The components of the AusTalk corpus and the time taken for each task
 across the three recording sessions (S1, S2, S3) are shown in the Table
 below.
 
-![](/assets/attachments/Picture1.png).
+![]({% link assets/attachments/Picture1.png %}).
 
 The **AusTalk prompts** can be found in the files:
 
-[Opening Yes-No questions](/assets/attachments/AusTalk-Protocol-OpeningYesNo-Session1.pdf)
+[Opening Yes-No questions]({% link assets/attachments/AusTalk-Protocol-OpeningYesNo-Session1.pdf %})
 
-[Digits](/assets/attachments/AusTalk-Protocol-Digits.pdf)
+[Digits]({% link assets/attachments/AusTalk-Protocol-Digits.pdf %})
 
-[Words Session 1](/assets/attachments/AusTalk-Protocol-Words_Session1.pdf) ;
-[Words Session 2](/assets/attachments/AusTalk-Protocol-Words_Session2.pdf) ;
-[Words Session 3](/assets/attachments/Austalk-Protocol-Words_Session3.pdf)
+[Words Session 1]({% link assets/attachments/AusTalk-Protocol-Words_Session1.pdf %}) ;
+[Words Session 2]({% link assets/attachments/AusTalk-Protocol-Words_Session2.pdf %}) ;
+[Words Session 3]({% link assets/attachments/Austalk-Protocol-Words_Session3.pdf %})
 
-[Sentences](/assets/attachments/AusTalk-Protocol-Sentences-Session2.pdf)
+[Sentences]({% link assets/attachments/AusTalk-Protocol-Sentences-Session2.pdf %})
 
-[Read Story](/assets/attachments/AusTalk-Protocol-Story.pdf)
+[Read Story]({% link assets/attachments/AusTalk-Protocol-Story.pdf %})
 
-[Closing Yes-No questions](/assets/attachments/AusTalk-Protocol-ClosingYesNo.pdf)
+[Closing Yes-No questions]({% link assets/attachments/AusTalk-Protocol-ClosingYesNo.pdf %})
 
 Spontaneous speech makes up approximately half of the collected data
 with a minimum of 40 minutes per speaker (Yes/No responses, Interview
@@ -91,11 +91,11 @@ could be moved between sites if needed.
 
 The Black Box closed for transportation and storage:
 
-![](/assets/attachments/BlackBox-closed.jpg)
+![]({% link assets/attachments/BlackBox-closed.jpg %})
 
 and the Black Box deployed for recording:
 
-![](/assets/attachments/BlackBox-deployed.jpg)
+![]({% link assets/attachments/BlackBox-deployed.jpg %})
 
 Specialised software was designed to run the collection protocol on the
 Black Box and display prompts simultaneously on dual screens - one for
@@ -116,12 +116,12 @@ per component and these in turn are grouped by session and by speaker.
 
 The complete corpus of audio visual data collected for AusTalk is freely
 available to researchers from all the original [Big ASC project partner
-institutions](/participating-institutions/). This includes the
+institutions]({% link _tabs/participating-institutions.md %}). This includes the
 demographic metadata provided by the participants.
 
 For researchers from other institutions, all the audio data is available
 upon request and after agreeing to the [AusTalk Corpus Licence
-Terms](/about/licence/). At this time, only some of the video data can
+Terms]({% link about/licence.md %}). At this time, only some of the video data can
 be released outside the project partners, due to legal issues concerning
 the original participant consent form.
 

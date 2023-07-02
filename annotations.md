@@ -10,6 +10,6 @@ associated with the original data in Austalk.   Annotation
 files will also appear alongside the original data in Alveo.
 
 In addition you can download the [Austalk Annotation
-Report](/downloads/annotations/AusTalk%20Annotation%20reportV4.pdf) that
+Report]({% link assets/attachments/Austalk-Annotation-Report.pdf %}) that
 describes the annotation that has been completed and the standards that
 were used for transcription etc.

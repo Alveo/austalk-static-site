@@ -55,7 +55,7 @@ Associate Professor Roberto Togneri answers the questions of Graham
 Mabury.
 
 [Download the interview (MP3, 4MB, 10
-mins)](/assets/attachments//prof_roberto_togneri_austalk.mp3)
+mins)]({% link assets/attachments/prof_roberto_togneri_austalk.mp3 %})
 
 ### Study puts Aussie accent on record (15 March 2011)
 
@@ -83,7 +83,7 @@ territories will be collected to represent the regional and social
 diversity of Australian English.
 
 [Download PDF (33.66
-KB)](/assets/attachments//Austalk_Media_Release.pdf "Media release")
+KB)]({% link assets/attachments/Austalk_Media_Release.pdf  %} "Media release")
 
 ### ABC AM (26 January 2011)
 

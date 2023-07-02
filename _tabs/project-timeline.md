@@ -9,12 +9,6 @@ Australia was started in June 2011 and completed in June 2015. A total
 of 861 participants with complete sets of 3 one-hour sessions per
 participant were recorded at 17 locations.
 
-The data has been partially annotated and the complete data set (audio,
-video and full demographic information) is available to project members.
-The audio data and some video data, together with restricted demographic
-information, is available to other researchers by registering
-[here](/login/).
-
 ## Detailed timeline
 
 **Annotation Task** started at Macquarie University, March 2012.

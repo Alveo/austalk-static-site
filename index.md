@@ -12,7 +12,7 @@ social diversity and linguistic variation of Australian English,
 including Australian Aboriginal English. Each speaker was recorded for
 one hour on three separate occasions to sample their voice in a range of
 scripted and spontaneous speech situations at various times (see
-[About AusTalk](/about/) for a more detailed description of
+[About AusTalk]({% link _tabs/about.md %}) for a more detailed description of
 the data collection protocol). Later, this database will be expanded to
 include more age groups, including children, more accents and more ways
 of speaking.
@@ -44,7 +44,7 @@ about how to access AusTalk data. A customised interface for AusTalk
 recordings in the corpus.
 
 Some of the AusTalk data has been transcribed and annotated both
-manually and automatically. See [this page](/annotations/) for more
+manually and automatically. See [this page]({% link annotations.md %}) for more
 information.
 
 The AusTalk database is one step in a major research project spanning
@@ -55,4 +55,4 @@ develop Australian speech technology applications from better
 telephone-based speech recognition systems (e.g. taxi bookings) and
 computer avatars to hearing aids and Cochlear Implants improvements or
 computer aids for learning-impaired children. See
-[Research projects using AusTalk](/research-projects/)
+[Research projects using AusTalk]({% link _tabs/research-projects.md %})

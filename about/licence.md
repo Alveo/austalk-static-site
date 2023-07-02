@@ -4,7 +4,7 @@ layout: page
 ---
 
 Download licence as pdf
-[here](/assets/attachments/AusTalk_Content_Licence_Terms.pdf).
+[here]({% link assets/attachments/AusTalk_Content_Licence_Terms.pdf %}).
 
 1\. Use of the AusTalk Content
 

@@ -10,7 +10,7 @@ following acknowledgement:
 > The AusTalk corpus was collected as part of the Big ASC project
 > (Burnham et al. 2009; Wagner et al. 2010; Burnham et al. 2011) funded by
 > the Australian Research Council (LE100100211). See:
-> [https://austalk.edu.au/](/) for details.
+> <https://austalk.edu.au/> for details.
 
 ### Project Publications
 
@@ -33,7 +33,7 @@ International Phonetic Association. pp. 1-32. DOI:
 Estival D. & Peretokina V. (2018). 'Dialogue Acts in the AusTalk
 MapTasks\'.17th Australasian Speech Science and Technologies (SST2018).
 Sydney Australia.
-[PDF](/assets/attachments/Estival-Peretokina-SST2018.pdf)
+[PDF]({% link assets/attachments/Estival-Peretokina-SST2018.pdf %})
 
 Penney J. Cox F. Palethorpe S. & Miles K. (2018). Glottalisation as a
 cue to coda stop voicing. Journal of Phonetics 66 161-184.
@@ -43,7 +43,7 @@ Weiss B. Estival D. Stiefelhagen U. (2018). 'Non-Experts\' Perceptual
 Dimensions of Voice Assessed by Using Direct Comparisons'. Acta Acustica
 united with Acustica. Volume 104 Number 1 pp. 174-184(11). DOI:
 doi.org/10.3813/AAA.919157.
-[PDF](/assets/attachments//Weiss-Estival-Stiefelhagen_wm_ActaAcustunitedAc_V104N1_p174.pdf)
+[PDF]({% link assets/attachments/Weiss-Estival-Stiefelhagen_wm_ActaAcustunitedAc_V104N1_p174.pdf %})
 
 Cassidy S. Estival D. Cox F. (2017). 'Case Study: the AusTalk Corpus'.
 *Handbook of Linguistic Annotation* Nancy Ide and James Pustejovsky eds.
@@ -84,7 +84,7 @@ Spoken Language Research and Evaluation September 10-12 Phuket Thailand.
 Estival D. Cassidy S. Cox F. Denis Burnham D. (2014). "AusTalk: an
 audio-visual corpus of Australian English". *9^th^ Language Resources
 and Evaluation Conference* (LREC 2014) Reykjavik Iceland. [Download
-PDF.](/assets/attachments//AusTalk-LREC2014-final.pdf)
+PDF.]({% link assets/attachments/AusTalk-LREC2014-final.pdf %})
 
 Sui C. Haque S. Togneri R. & Bennamoun M. (2012). \"A 3D Audio-Visual
 Corpus for Speech Recognition\". Paper presented at the *SST2012* Sydney
@@ -100,7 +100,7 @@ Roland Göcke Joanne Arciuli Marc Onslow Trent Lewis Andy Butcher John
 Hajek and Michael Wagner. (2011). \"Building an Audio-Visual Corpus of
 Australian English: Large Corpus Collection with an Economical Portable
 and Replicable Black Box\". In *Interspeech 2011.* Florence Italy 2011.
-[Download PDF.](/assets/attachments/IS11-AusTalk.pdf)
+[Download PDF.]({% link assets/attachments/IS11-AusTalk.pdf %})
 
 Christou Maria. (2011). \"Isn\'t it Romantic\": Discerning the Phonetic
 Properties of Speech Directed at Lovers and Strangers. Honours Thesis.
@@ -114,7 +114,7 @@ Bennamoun J. Arciuli and E. Ambikairajah. \"The Big Australian Speech
 Corpus (the Big Asc)\". (2010). In *13th Australasian International
 Conference on Speech Science and Technology* edited by M. Tabain J.
 Fletcher D. Grayden J. Hajek and A. Butcher pp.166-70. Melbourne: ASSTA
-2010. [Download PDF](/assets/attachments/BigASC-SST2010.pdf).
+2010. [Download PDF]({% link assets/attachments/BigASC-SST2010.pdf %}).
 
 Burnham D. E. Ambikairajah J. Arciuli M. Bennamoun C.T. Best S. Bird
 A.B. Butcher C. Cassidy G. Chetty F.M. Cox A. Cutler R. Dale J.R. Epps
@@ -125,22 +125,22 @@ Comprehensive Australian English Auditory-Visual Speech Corpus\".
 (2009). In *The 2008 HCSNet Workshop on Designing the Australian
 National Corpus* pp.96-107. Sydney: Somerville MA USA: Cascadilla
 Proceedings Project. [Download
-PDF](/assets/attachments/Speech_Corpus_May12_Burnham_et_al.pdf).
+PDF]({% link assets/attachments/Speech Corpus_May12_Burnham et al.pdf %}).
 
 ### Public Presentations
 
 Presentation at the *ACSRF Supercomputing Workshop* Hunan University
 Changsha China June 2013. Download
-[PDF](/assets/attachments//HunanAusTalkvHCSLab.pdf).
+[PDF]({% link assets/attachments/HunanAusTalkvHCSLab.pdf %}).
 
 Presentation at the [HAIL Seminar](http://research.ict.csiro.au/hail)
 CSIRO Sydney April 2012. Download
-[PDF](/assets/attachments//BigASC_HAIL-April-2012.pdf).
+[PDF]({% link assets/attachments/BigASC_HAIL-April-2012.pdf %}).
 
 Presentation at the [New Zealand Institute of Language Brain and
 Behaviour](http://www.nzilbb.canterbury.ac.nz/) University of Canterbury
 Christchurch NZ November 2011. Download
-[PDF](/assets/attachments//BigASC_2011_NZ-updated.pdf).
+[PDF]({% link assets/attachments/BigASC_2011_NZ-updated.pdf %}).
 
 Presentation at [Interspeech 2011](http://www.interspeech2011.org/).
 August 2011.
@@ -149,7 +149,7 @@ Presentation at the [Thirteenth Australasian International Conference on
 Speech Science and Technology
 2010](http://www.assta.org/?q=sst-2010 "Thirteenth Australasian International Conference on Speech Science and Technology 2010")
 Melbourne Australia December 2010. Download
-[PDF.](/assets/attachments//BigASC-SST2010.pdf)
+[PDF.]({% link assets/attachments/BigASC-SST2010.pdf %})
 
 ### Selected References
 
