@@ -21,7 +21,7 @@ collect the data at all collection sites. Such standard recording
 conditions and standard tasks allow us to carefully capture regional and
 social variations across the country.
 
-The recording set-ups will remain at each [recording site]({% link _tabs/recording-sites.md %}) for subsequent data
+The recording set-ups will remain at each [recording site]({% link recording-sites.md %}) for subsequent data
 collection projects. The AusTalk corpus of audio visual speech data,
 incorporating annotations, transcriptions and metadata, is accessible
 via a centralised storage facility. The original corpus, and later
